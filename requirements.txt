@@ -6,3 +6,4 @@ python_dotenv
 gunicorn
 youtube_transcript_api
 langchain_groq
+sentence_transformers
