@@ -1,6 +1,6 @@
 streamlit
 langchain-community
 langchain
-pytube
+pytubefix
 python-dotenv
 gunicorn
