@@ -1,7 +1,8 @@
 streamlit
-langchain-community
+langchain_community
 langchain
 pytubefix
-python-dotenv
+python_dotenv
 gunicorn
 youtube_transcript_api
+langchain_groq
