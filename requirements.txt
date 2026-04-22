@@ -4,3 +4,4 @@ langchain
 pytubefix
 python-dotenv
 gunicorn
+youtube_trancripts_api
